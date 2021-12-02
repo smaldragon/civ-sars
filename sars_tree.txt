@@ -1,0 +1,45 @@
+-,-
+    medi
+        lumiere (-7928,11,-2534)
+            nam (-8170,-2665)
+            picardie (-8450,-2850)
+            zealand
+        lusitania (-7748,-3540)
+            petra (-7930,-3700)
+            ellas (-7920,-3439)
+            ebora (-8050,-3080)
+            colissipo (-8197,-2892)
+-,+
+    augusta (-5637,2943)
+        csa (-6390,23,3504) # Hybrid AURA/SARS switch
+            lcat (-6871,23,3366)
+                sugar (-6928,23,3366)
+            ll (-6682,23,3366)
+            luk (-6555,23,3366)
+        icy
+            lhell (-5082,11,3636)
+            liw (-4855,11,3636)
+            lmushie (-2711,11,3636)
+            lbrim (-2711,11,4084)
+        mtabay
+            horus (-6259,23,3366)
+            sealand (-6175,11,3219)
+            megafarms (-6175,11,2950)
+        september (-4947,2215) # Arrivals work, but not departures
+            blazes
+            foxes
+            mall
+    western
+        wau (-11940,1,760)
++,+
+    terestai (4223,2,5333) # Hybrid AURA/SARS switch
+        dith (3930,11,4927)
+        ashelor (4373,4852)
+        phylon (2796,4846)
+        adina (4875,5400) # Connection not working
+        kaga (4550,6373) # Rail Broken
+    twins
+        pripyat (6175,2350)
+        threepton (7429,2333)
+    phoenix
+        maltovia (7346,6200)
