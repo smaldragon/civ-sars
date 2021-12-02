@@ -27,8 +27,8 @@
             megafarms (-6175,11,2950)
         september (-4947,2215) # Arrivals work, but not departures
             blazes
-            foxes
-            mall
+            fox (-5165,23,2447)
+            mall (-5033,23,2317)
     western
         wau (-11940,1,760)
 +,+
