@@ -32,7 +32,7 @@ with open(r'sars_tree.txt') as f:
     if comment_parse is not None:
       comment = comment_parse.group(0)[1:]
     # Parse /dest
-    dest = "/dest"
+    dest = "/dest $"
     for c in line:
       if c in (" ","\t"):
         ident+=1
