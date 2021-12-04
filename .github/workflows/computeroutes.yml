@@ -5,7 +5,7 @@ name: compute-routes
 # Controls when the action will run. 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -30,10 +30,7 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.9.1'
-      - name: install dependencies
-        run: |
-          python -m pip install --upgrade pip
-                    
+          
       - name: execute route compute script
         run: python sars_parse.py
       
@@ -43,4 +40,4 @@ jobs:
           author_name: Github Actions
           author_email: github_actions@github.com
           message: Compute Routes .JSON
-          add: 'computed.json ccmap.json'
+          add: 'ccmap.json'
